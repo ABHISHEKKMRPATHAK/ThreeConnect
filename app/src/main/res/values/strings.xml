@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Three Connect</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">todo</string>
+    <string name="todo3">todo3</string>
+    <string name="todo4">todo4</string>
+    <string name="todo5">todo5</string>
+    <string name="todo9">todo9</string>
+    <string name="todo10">todo10</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again</string>
+</resources>
